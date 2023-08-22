@@ -70,16 +70,16 @@
   {
     name: 'files.json',
     path: 'files.json',
-    sha: 'dddbddff94a63e16fda414d0b6b0425e36df4448',
+    sha: '97ef6e2d667d157fcf680a189903571b860a132b',
     size: 16399,
     url: 'https://api.github.com/repos/tdahlstrom/actions-test/contents/files.json?ref=main',
     html_url: 'https://github.com/tdahlstrom/actions-test/blob/main/files.json',
-    git_url: 'https://api.github.com/repos/tdahlstrom/actions-test/git/blobs/dddbddff94a63e16fda414d0b6b0425e36df4448',
+    git_url: 'https://api.github.com/repos/tdahlstrom/actions-test/git/blobs/97ef6e2d667d157fcf680a189903571b860a132b',
     download_url: 'https://raw.githubusercontent.com/tdahlstrom/actions-test/main/files.json',
     type: 'file',
     _links: {
       self: 'https://api.github.com/repos/tdahlstrom/actions-test/contents/files.json?ref=main',
-      git: 'https://api.github.com/repos/tdahlstrom/actions-test/git/blobs/dddbddff94a63e16fda414d0b6b0425e36df4448',
+      git: 'https://api.github.com/repos/tdahlstrom/actions-test/git/blobs/97ef6e2d667d157fcf680a189903571b860a132b',
       html: 'https://github.com/tdahlstrom/actions-test/blob/main/files.json'
     }
   },
