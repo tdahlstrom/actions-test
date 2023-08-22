@@ -4,6 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Run github-to-json
         run: |
           npm install --global github-to-json
