@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: Run github-to-json
         run: |
-          npm install github-to-json
+          npm install --global github-to-json
           github-to-json tdahlstrom actions-test -t ${{ secrets.TOKEN }} > files.json
       - name: Commit changes
         run: |
