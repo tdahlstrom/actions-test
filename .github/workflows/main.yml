@@ -6,7 +6,7 @@ jobs:
         run: |
           npm install github-to-json
           github-to-json tdahlstrom actions-test -t ${{ secrets.TOKEN }} > files.json
-      - Commit changes
+      - name: Commit changes
         run: |
           git config --global user.email "no-reply@github.com"
           git config --global user.name "GitHub Actions"
